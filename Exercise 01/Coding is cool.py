@@ -7,7 +7,11 @@ word2 =
 word3 =
 # Use string concatenation to combine the variables and print the pharse 
 _____(_________) """
+# First variable
 word1 = "Coding"
+# Second variable
 word2 = "is"
+# Third variable
 word3 = "Cool"
-print (" Coding " + " is " + " Cool ")
+# Print statement 
+print (" Coding" + " is " + " Cool ")
