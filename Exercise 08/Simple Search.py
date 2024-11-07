@@ -1,4 +1,4 @@
-"""Write a program that searches for a specific string whitin a list of strings. 
+"""Write a program that searches for a specific string whitin a list of strings.
 The list is initialized with specific name (“Jake” “Zac”, “Ian”, “Ron”, “Sam”, “Dave”).
 , and your task is to search for “Sam”.
 Optional Requirements:
