@@ -10,7 +10,7 @@ bers and the values are the number of days in those months.
 3. Check and Output: Use an if-else statement to check if the input is valid
 and print the number of days in the corresponding month."""
 
-# Days of month
+# Days of the month
 month_days = {
     1: 31,  # January
     2: 28,  # February 
