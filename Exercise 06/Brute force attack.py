@@ -15,7 +15,7 @@ have been alerted."""
 
 # Brute Force Attack
 # correct password 
-right_password = "1234"
+right_password = "1234" 
 # Maximum attempts
 max_attempts = 5
 # Accepted attempts 
