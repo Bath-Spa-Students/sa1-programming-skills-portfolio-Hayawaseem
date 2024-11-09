@@ -1,3 +1,8 @@
+"""Advanced Requirement:
+Leap Year Adjustment: Modify the program to account for leap years. For
+February, ask the user if the year is a leap year and adjust the number of days
+accordingly."""
+
  # Days of the month
 month_days = {
     1: 31,  # January
