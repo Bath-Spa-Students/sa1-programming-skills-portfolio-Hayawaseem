@@ -10,7 +10,7 @@ month_days = {
     3: 31,  # March
     4: 30,  # April
     5: 31,  # May
-    6: 30,  # June
+    6: 30,  # June 
     7: 31,  # July
     8: 31,  # August
     9: 30,  # September
