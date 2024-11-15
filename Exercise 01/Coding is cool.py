@@ -14,4 +14,4 @@ word2 = "is"
 # Third variable
 word3 = "Cool"
 # Print statement 
-print (" Coding" + " is " + " Cool ")
+print (" Coding" + " is " + " Cool ") 
